@@ -83,7 +83,7 @@ const Quiz = () => {
     return (
         <div className="container ">
             <div className="w-[640px] mx-auto  bg-white flex flex-col gap-3 px-[20px] py-[40px]  text-center rounded-md ">
-                <h3 className="font-bold text-2xl">Quiz App</h3>
+                <h3 className="font-bold text-2xl">Quiz App,,,</h3>
                 <hr />
               
                 {
