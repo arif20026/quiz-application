@@ -1,0 +1,38 @@
+
+
+.correct{
+    background-color: #4ce451;
+}
+
+.wrong{
+    background-color: #d7313c;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.container hr{
+    height: 2px;
+    border: none;
+    background: #707070;
+}
+
+.container ul li{
+
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding-left: 15px;
+    border: 1px solid #686868;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
